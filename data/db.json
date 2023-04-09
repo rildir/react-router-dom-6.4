@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Fore Sigorta",
+      "technology": "React JS",
+      "location": "Balıkesir, TR"
+    },
+    {
+      "id": 2,
+      "title": "Wow Remember Game",
+      "technology": "React JS",
+      "location": "Balıkesir, TR"
+    },
+    {
+      "id": 3,
+      "title": "Firebase Auth",
+      "technology": "React JS, Firebase",
+      "location": "Balıkesir, TR"
+    },
+    {
+      "id": 4,
+      "title": "Puppins One Page",
+      "technology": "React JS",
+      "location": "Balıkesir, TR"
+    },
+    {
+      "id": 5,
+      "title": "Custom Fetch Hooks",
+      "technology": "React JS",
+      "location": "Balıkesir, TR"
+    },
+    {
+      "id": 6,
+      "title": "Madexpress Mobil UI/UX",
+      "technology": "Figma, Adobe Photoshop",
+      "location": "Denmark, DK"
+    },
+    {
+      "id": 7,
+      "title": "Advertise Design",
+      "technology": "Figma, Adobe Photoshop",
+      "location": "Denmark, DK"
+    }
+  ]
+}
